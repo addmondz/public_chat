@@ -1,0 +1,7 @@
+[10-Jul-2021 06:12:51 America/New_York] PHP Notice:  Undefined index: unique_id in /home/projyhix/chat.projectest.site/users.php on line 15
+[10-Jul-2021 06:12:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/projyhix/chat.projectest.site/users.php on line 16
+[10-Jul-2021 06:12:51 America/New_York] PHP Notice:  Undefined variable: row in /home/projyhix/chat.projectest.site/users.php on line 20
+[10-Jul-2021 06:12:51 America/New_York] PHP Notice:  Undefined variable: row in /home/projyhix/chat.projectest.site/users.php on line 22
+[10-Jul-2021 06:12:51 America/New_York] PHP Notice:  Undefined variable: row in /home/projyhix/chat.projectest.site/users.php on line 22
+[10-Jul-2021 06:12:51 America/New_York] PHP Notice:  Undefined variable: row in /home/projyhix/chat.projectest.site/users.php on line 23
+[10-Jul-2021 06:12:51 America/New_York] PHP Notice:  Undefined variable: row in /home/projyhix/chat.projectest.site/users.php on line 26
